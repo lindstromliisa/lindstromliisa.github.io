@@ -1,7 +1,16 @@
 $background: rgb(2,0,36);
 $linear-gradiant: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 53%, rgb(0, 47, 255) 100%);
 
+$footerH2: rgb(221, 221, 221);
+$footerP: rgb(182, 182, 182);
+
 footer {
     background: $background;
     background: $linear-gradiant;
+    h2 {
+      color: $footerH2;
+    }
+    p {
+      color: $footerP;
+    }
   }
