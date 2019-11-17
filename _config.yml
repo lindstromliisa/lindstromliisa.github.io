@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Liisas webbplats innehåller en blogg med kommentarsfunktion samt en sida om mig.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ll223qi
 github_username:  ll223qi
 instagram_username: liisalindstrom
 
