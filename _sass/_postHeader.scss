@@ -1,0 +1,25 @@
+$postHeader-text-color:  rgb(82, 197, 191);
+$postHeader-background:  #fff;
+
+$secondaryH2: rgb(87, 140, 255), ;
+$secondaryH3: rgb(33, 226, 240);
+$secondaryH4: rgb(207, 127, 245);
+$secondaryP:  rgb(112, 112, 112);
+
+.post-header {
+    background-color: $postHeader-background;
+    color: $postHeader-text-color;
+    height: 70px;
+  }
+  
+  .post-style {
+    h2 {
+      color: $secondaryH2;
+    }
+    h3, h4 {
+      color: $secondaryH3;
+    }
+    p {
+      color: $secondaryP;
+    }
+  }

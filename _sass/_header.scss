@@ -1,0 +1,11 @@
+$headerText-color:       rgb(201, 101, 101);
+$headerBackground-color: rgb(255, 255, 255);
+
+header {
+    background-color: $headerBackground-color;
+    color: $headerText-color;
+    height: 150px;
+    a {
+      color: #fff;
+    }
+  }

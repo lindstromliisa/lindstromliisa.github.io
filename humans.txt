@@ -1,0 +1,6 @@
+/*TEAM*/
+'Developer': Liisa Lindström
+Contact: ll223qi[at]student.lnu.student
+
+/*SITE*/
+Language: Swedish
