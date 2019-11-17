@@ -1,10 +1,13 @@
 $headerText-color:       rgb(201, 101, 101);
 $headerBackground-color: rgb(255, 255, 255);
+$headerHeight: 120px;
+$headerBoxShadow: 0px 0px 10px rgba(9,9,121,1);
 
 header {
     background-color: $headerBackground-color;
     color: $headerText-color;
-    height: 150px;
+    height: $headerHeight;
+    box-shadow: $headerBoxShadow;
     a {
       color: #fff;
     }
