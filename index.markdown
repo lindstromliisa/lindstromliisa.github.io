@@ -8,5 +8,6 @@ description: Välkommen till min blogg där jag postat frågor och svar för Exa
 image: /images/avatar.PNG
 ---
 <div class="landingPage">
+<h1>Välkommen till bloggen</h1>
     <p>Här finns frågor och svar postade för <strong>Examinationsuppgift 1</strong>.</p>
 </div>

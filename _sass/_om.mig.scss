@@ -7,10 +7,10 @@ $backgroundColorP:  pink;
 $fontColorP:        #000;
 $fontSizeP:         16px;
 
-$columnBackground:  rgb(226, 180, 187);
+$columnBackground:  rgb(245, 226, 229);
 $columnSize:        18px;
 $columnWeight:      bold;
-$columnColor:       #fff;
+$columnColor:       rgb(78, 78, 78);
 
 .page-style {
     h2 {
@@ -39,7 +39,7 @@ $columnColor:       #fff;
     }
     a {
         color: $columnColor;
-        &:hover {
+        a:hover {
             color: rgb(155, 7, 7);
         }
     }
