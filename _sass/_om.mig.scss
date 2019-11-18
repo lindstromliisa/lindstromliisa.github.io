@@ -7,6 +7,11 @@ $backgroundColorP:  pink;
 $fontColorP:        #000;
 $fontSizeP:         16px;
 
+$columnBackground:  rgb(226, 180, 187);
+$columnSize:        18px;
+$columnWeight:      bold;
+$columnColor:       #fff;
+
 .page-style {
     h2 {
         background-color: $backgroundColorH2;
@@ -20,5 +25,22 @@ $fontSizeP:         16px;
         color: $fontColorP;
         padding: $padding;
         font-size: $fontSizeP;
+    }
+}
+
+.columns {
+    column-count: 2;
+    p {
+        background-color: $columnBackground;
+        font-size: $columnSize;
+        font-weight: $columnWeight;
+        text-align: center;
+        color: $columnColor;
+    }
+    a {
+        color: $columnColor;
+        &:hover {
+            color: rgb(155, 7, 7);
+        }
     }
 }

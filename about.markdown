@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Kontakt
 permalink: /about/
 ---
+<div class="page-style">
+    <h2>Välkommen att kontakta mig</h2>
+    <p>Har du några frågor som rör sajten, var vänlig kontakta mig.</p>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<div class="columns">
+    <p><a href="mailto:ll223qi@student.lnu.se">ll223qi@student.lnu.se</a></p>
+    <p>liisalindstrom</p>
+</div>
+</div>
