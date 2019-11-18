@@ -22,7 +22,7 @@ categories: Q/A
         </tr>
         <tr>
             <td>Disallow:</td>
-            <td>/*?page=</td>
+            <td>*page=*</td>
         </tr>
     </table>
     <h3>Vad är humans.txt och hur la du till det på din sajt?</h3>
