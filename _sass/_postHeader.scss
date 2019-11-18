@@ -6,6 +6,8 @@ $secondaryH3: rgb(33, 226, 240);
 $secondaryH4: rgb(207, 127, 245);
 $secondaryP:  rgb(112, 112, 112);
 
+$standardPadding: 10px;
+
 .post-header {
     background-color: $postHeader-background;
     color: $postHeader-text-color;
@@ -16,11 +18,16 @@ $secondaryP:  rgb(112, 112, 112);
   .post-style {
     h2 {
       color: $secondaryH2;
+      text-shadow: 3px 2px rgb(176, 201, 255);
     }
-    h3, h4 {
-      color: $secondaryH3;
+    h3 {
+      color: #fff;
+      background-color: $secondaryH3;
+      padding: $standardPadding;
     }
     p {
       color: $secondaryP;
+      font-size: 16px;
+      padding: $standardPadding;
     }
   }

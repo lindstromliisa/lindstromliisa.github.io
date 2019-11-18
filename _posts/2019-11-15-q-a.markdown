@@ -1,20 +1,37 @@
 ---
 layout: post
 comments: true
-title:  "Q/A"
+title:  "Q/A - pre compiling css"
 date:   2019-11-15 03:53:46 -0600
 categories: Q/A
 ---
 <div class="post-style">
-    <h2><strong>Frågor och svar</strong></h2>
-    <h3>Fundera över pre-compiling css</h3>
-    <h4>Jämfört med vanlig CSS</h4>
-    <p>Text</p>
-    <h4>Tekniker jag använt</h4>
-    <p>Text</p>
-    <h4>Fördelar och nackdelar</h4>
-    <p>Text</p>
+    <h2><strong>Fundera över pre-compiling css</strong></h2>
+    <h3>Jämfört med vanlig CSS</h3>
+    <p>När jag väl kom in i det så känns det som ett väldigt smidigt sätt att snabbt kunna sätta upp stilar och väldigt enkelt ändra och testa på färre ställen i dokumentet än i det vanliga css stylesheet.</p>
+    <h3>Tekniker jag använt</h3>
+    <p>Hittills har jag enbart använt mig av sass. Jag ska försöka använda mig av någon mer teknik (och då även komma ihåg att ändra den här raden).</p>
+    <h3>Fördelar och nackdelar</h3>
+    <table class="table">
+        <tr>
+            <th>Fördelar</th>
+            <th>Nackdelar</th>
+        </tr>
+        <tr>
+            <td>Effektiv styling av de sidor och poster man använder.</td>
+            <td>Lätt att det inte bli så snyggt på samtliga sidor.</td>
+        </tr>
+        <tr>
+            <td>Kan brytas ut i fler dokument för att kunna ha unika styles alt./samt göra det lättare att överblicka.</td>
+            <td>Tar ett tag att lära sig och komma igång.</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Smidigt verktyg men lätt att tappa sina grundkunskaper i css om man övergå till pre compiling tekniker helt och hållet.</td>
+        </tr>
+    </table>
 </div>
+<p>Lämna gärna en kommentar nedan!</p>
 
 <div id="disqus_thread"></div>
 <script>
