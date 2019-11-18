@@ -1,0 +1,24 @@
+$backgroundColorH2: #000;
+$fontColorH2:       #fff;
+$marginTopH2:       -20px;
+$padding:       20px;
+
+$backgroundColorP:  pink;
+$fontColorP:        #000;
+$fontSizeP:         16px;
+
+.page-style {
+    h2 {
+        background-color: $backgroundColorH2;
+        color:$fontColorH2;
+        margin-top: $marginTopH2;
+        padding-left: $padding;
+        padding-bottom: $padding;
+    }
+    p {
+        background-color: $backgroundColorP;
+        color: $fontColorP;
+        padding: $padding;
+        font-size: $fontSizeP;
+    }
+}
