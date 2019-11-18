@@ -31,16 +31,10 @@ $table-text-align: left !default;
 $link-color:  rgb(240, 144, 144);
 $link-hover:  #229ed3;
 
-ul {
-  margin: 0;
-  // li {
-  //   float:left;
-  // }
-  a {
-    color: $link-color;
-    &:hover {
-      color: $link-hover;
-    }
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-hover;
   }
 }
 

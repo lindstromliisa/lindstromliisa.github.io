@@ -4,3 +4,7 @@
 
 layout: home
 ---
+<div class="landingPage">
+    <h1>Välkommen till Bloggen</h1>
+    <p>Här finns frågor och svar postade för <strong>Examinationsuppgift 1</strong>.</p>
+</div>
