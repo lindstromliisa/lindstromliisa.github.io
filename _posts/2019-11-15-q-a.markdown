@@ -5,6 +5,7 @@ title:  "Q/A - pre compiling css"
 date:   2019-11-15 03:53:46 -0600
 categories: Q/A
 description: Funderar över fördelar och nackdelar med pre compiling CSS.
+permalink: /blog/Q-A-pre-compiling-css
 ---
 <div class="post-style">
     <h2><strong>Fundera över pre-compiling css</strong></h2>

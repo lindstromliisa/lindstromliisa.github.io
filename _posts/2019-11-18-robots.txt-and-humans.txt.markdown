@@ -5,6 +5,7 @@ title:  "Robots.txt and Humans.txt"
 date:   2019-11-18 03:26:46 -0100
 categories: Q/A
 description: Förklarar robots.txt och humans.txt.
+permalink: /blog/forklarar-robots-och-humans
 ---
 <div class="post-style">
     <h2><strong>Frågor och svar</strong></h2>

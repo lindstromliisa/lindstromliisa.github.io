@@ -5,6 +5,7 @@ title:  "Implementering av Disqus"
 date:   2019-11-18 03:26:46 -0100
 categories: Q/A
 description: Går igenom hur jag implementerade Disqus på sajten.
+permalink: /blog/implementering-av-disqus
 ---
 <div class="post-style">
     <h2><strong>Arbetsgång: Disqus</strong></h2>

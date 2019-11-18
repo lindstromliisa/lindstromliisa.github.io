@@ -5,6 +5,7 @@ title: "Tankar om SSG"
 date: 2019-11-18 05:28:18 -0100
 categories: Q/A
 description: Lyfter mina tankar om Static Site Generators.
+permalink: /blog/-tankar-om-static-site-generators
 ---
 <div class="post-style">
     <h2><strong>Frågor och svar</strong></h2>
