@@ -3,7 +3,9 @@ layout: page
 title: Kontakt
 permalink: /kontakt/
 description: Kontaktuppgifter för att komma i kontakt med mig.
-image: /images/logo.png
+image: 
+    path: /images/logo.png
+    height: 100
 ---
 <div class="page-style">
     <h2>Välkommen att kontakta mig</h2>
