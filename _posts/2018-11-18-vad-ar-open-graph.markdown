@@ -7,7 +7,7 @@ categories: Q/A
 description: Beskriver Open Graph och hur jag använt mig av det på sajten.
 permalink: /blog/vad-ar-open-graph
 type: Blogpost
-img: ../images/logo.png
+img: ./images/logo.png
 ---
 <div class="post-style">
     <h2><strong>Frågor och svar</strong></h2>
