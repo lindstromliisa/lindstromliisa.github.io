@@ -5,7 +5,7 @@
 layout: home
 # title: Välkommen till bloggen
 description: Välkommen till min blogg där jag postat frågor och svar för Examinationsuppgift 1.
-image: /images/avatar.PNG
+image: /images/logo.png
 ---
 <div class="landingPage">
 <h1>Välkommen till bloggen</h1>

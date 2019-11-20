@@ -2,6 +2,8 @@
 layout: page
 title: Om mig
 permalink: /om-mig/
+description: Jag heter Liisa och går första året på Webbprogrammering på LNU.
+image: /images/logo.png
 ---
 
 <div class="page-style">
