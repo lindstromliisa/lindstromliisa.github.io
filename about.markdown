@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /about/
+permalink: /kontakt/
 ---
 <div class="page-style">
     <h2>Välkommen att kontakta mig</h2>
@@ -9,6 +9,6 @@ permalink: /about/
 
 <div class="columns">
     <p><a href="mailto:ll223qi@student.lnu.se">ll223qi@student.lnu.se</a></p>
-    <p>liisalindstrom</p>
+    <p>Slack: Liisa Lindström</p>
 </div>
 </div>
