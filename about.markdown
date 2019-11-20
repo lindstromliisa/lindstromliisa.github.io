@@ -5,7 +5,7 @@ permalink: /kontakt/
 description: Kontaktuppgifter för att komma i kontakt med mig.
 image: 
     path: /images/logo.png
-    height: 100
+    height: 100px
 ---
 <div class="page-style">
     <h2>Välkommen att kontakta mig</h2>
